@@ -1,0 +1,27 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3999791, 2021-01-19T18:48:00-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Supernett-Light by FaceType
+ * URL: https://www.myfonts.com/fonts/facetype/supernett/light/
+ * Copyright: Copyright (c) 2019 by Georg Herold-Wildfellner. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+
+  
+@font-face {
+  font-family: 'Supernett-Light';
+  src: url('webFonts/Supernett-Light/font.woff2') format('woff2'), url('webFonts/Supernett-Light/font.woff') format('woff');
+}
+
