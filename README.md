@@ -1,2 +1,2 @@
 # Ong_UmDiaFeliz
-Site desenvolvido com bootstrap para uma Ong
+Site desenvolvido com html, css e bootstrap para a Ong Um Dia Feliz
